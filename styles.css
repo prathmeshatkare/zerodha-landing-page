@@ -1,0 +1,96 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav_links{
+    padding: 22px 0px 23px 0px;
+    font-size: 16px;
+    display: block;
+    
+    
+}
+
+
+.bar_links{
+    padding: 20px 20px 20px 20px;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: "Inter",serif;
+    text-decoration: none;
+
+}
+
+a:link, a:visited {
+    color: rgb(66, 66, 66);
+
+}
+
+a:hover, a:active {
+    color: rgb(56, 126, 209);
+    
+}
+
+
+
+
+#landing_page{
+    max-width:2362px;
+    max-height: 994px;
+    width: 897px;
+    height: 378px;
+
+}
+
+#brand_logo{
+    max-width:609px ;
+    max-height:80px ;
+    width:129px ;
+    height: 17px;
+    margin-top: 24px;
+    margin-bottom: 26px;
+    margin-left: 185px;
+    margin-right: 303px;
+}
+
+#p1{
+    font-family:"Inter", serif;
+    color: #424242;
+    font-size: 44px;
+    line-height: 55px;
+    text-align: center;
+    letter-spacing: normal;
+    font-weight: 500;
+    
+
+}
+
+#p2{
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: normal;
+    font-weight: 400;
+    color: #424242;
+}
+
+#button{
+    background-color: #387ed1;
+    color: #ffffff;
+    box-shadow: none;
+    border-radius: 3px;
+    font-size: 19.2px;
+    line-height: 23.04px;
+    text-align: center;
+    letter-spacing: normal;
+    padding: 10px 30px 10px 30px;
+    margin-top: 25px;
+}
+
+
+#link{
+    color: #424242;
+    box-shadow: rgb(238, 238, 238) 2px 1px 2px 0px;
+    border-radius: 0px;
+}
